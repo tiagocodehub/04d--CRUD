@@ -46,3 +46,5 @@ GO
 
 SELECT * FROM Usuarios
 GO
+
+SELECT *FROM Projetos;
