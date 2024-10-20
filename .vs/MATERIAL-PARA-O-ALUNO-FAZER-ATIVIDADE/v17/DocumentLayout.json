@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESTUDOS\\Senai\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2935CF1D-EBDF-42F2-BE60-2E6C5B6518C9}|Exo.WebApi\\Exo.WebApi.csproj|d:\\estudos\\senai\\api\\material-para-o-aluno-fazer-atividade\\exo.webapi\\contexts\\exocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935CF1D-EBDF-42F2-BE60-2E6C5B6518C9}|Exo.WebApi\\Exo.WebApi.csproj|solutionrelative:exo.webapi\\contexts\\exocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2935CF1D-EBDF-42F2-BE60-2E6C5B6518C9}|Exo.WebApi\\Exo.WebApi.csproj|d:\\estudos\\senai\\api\\material-para-o-aluno-fazer-atividade\\exo.webapi\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2935CF1D-EBDF-42F2-BE60-2E6C5B6518C9}|Exo.WebApi\\Exo.WebApi.csproj|solutionrelative:exo.webapi\\repositories\\projetorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExoContext.cs",
+              "DocumentMoniker": "D:\\ESTUDOS\\Senai\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Contexts\\ExoContext.cs",
+              "RelativeDocumentMoniker": "Exo.WebApi\\Contexts\\ExoContext.cs",
+              "ToolTip": "D:\\ESTUDOS\\Senai\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Contexts\\ExoContext.cs",
+              "RelativeToolTip": "Exo.WebApi\\Contexts\\ExoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:23:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetoRepository.cs",
+              "DocumentMoniker": "D:\\ESTUDOS\\Senai\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Repositories\\ProjetoRepository.cs",
+              "RelativeDocumentMoniker": "Exo.WebApi\\Repositories\\ProjetoRepository.cs",
+              "ToolTip": "D:\\ESTUDOS\\Senai\\API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Repositories\\ProjetoRepository.cs",
+              "RelativeToolTip": "Exo.WebApi\\Repositories\\ProjetoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:23:40.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
